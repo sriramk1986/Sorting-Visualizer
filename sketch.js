@@ -61,7 +61,7 @@ function draw() {
 
 // Bubble Sort
 function bubbleSort() {
-  for (let k = 0; k < 8; k++) {
+  for (let k = 0; k < 16; k++) {
     if (i < values.length) {
       let temp = values[j];
       if (values[j] > values[j + 1]) {
